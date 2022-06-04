@@ -5,8 +5,8 @@ this is a project of timeseries data with InfluxDB and Grafana dashboards
 a weather time-series data set(CSV) gotton from kaggle was used for this project.
 
 # Tools used
-Docker
-InfluxDB
+Docker,
+InfluxDB,
 Grafana dashboard
 
 # Goals
